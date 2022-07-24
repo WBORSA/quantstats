@@ -35,7 +35,7 @@
 QuantStats: Portfolio analytics for quants
 ==========================================
 
-**QuantStats** Python library that performs portfolio profiling, allowing quants and portfolio managers to understand their performance better by providing them with in-depth analytics and risk metrics.
+**QuantStats** Python library that performs portfolio profiling, allowing quants and portfolio managers to understand their performance better by providing them with in-depth analytics and risk metrics. This is my personal repo.
 
 `Changelog » <./CHANGELOG.rst>`__
 
